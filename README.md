@@ -49,3 +49,8 @@ Playwright vérifie qu'aucune requête sortante ne quitte `localhost`.
 ## Licence
 
 MIT — Custom Digital Services (Kevin Tomas).
+
+## À propos
+
+Conçu et maintenu par [Kevin Tomas](https://www.custom-digital-services.com/?utm_source=github&utm_medium=readme&utm_campaign=qr-local), consultant freelance Power Platform et IA Microsoft (Custom Digital Services).
+Autres outils gratuits : [www.custom-digital-services.com/outils](https://www.custom-digital-services.com/outils/?utm_source=github&utm_medium=readme&utm_campaign=qr-local)
